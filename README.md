@@ -1,4 +1,4 @@
-# 🏫 14班电脑助手 (Classroom Computer Assistant)
+# 🏫 某班 电脑助手 (Classroom Computer Assistant)
 
 [![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://isocpp.org/)
 [![Version](https://img.shields.io/badge/Version-v4.0.2.debug1-green.svg)]()
@@ -7,8 +7,8 @@
 一个为高中班级多媒体电脑量身打造的**自动化管理系统**。轻量化、极简风格，基于 C++ 和 Win32 API 开发。
 
 > **🤖 关于项目开发**
-> 本项目由 **城南 (Dev)** 与 **Google Gemini (AI)** 协作完成。
-> 这是 AI 辅助开发日常效率工具的实践尝试：我提供核心架构与业务需求，AI 负责繁琐的 API 实现与逻辑调试。证明了只要有想法，AI 就能帮你把创意落地。
+> 本项目的雏形由 **Google Gemini (AI)** 完成,我在此基础进行了引导和修改。
+> 这是 AI 辅助开发日常效率工具的实践尝试：我提供核心架构和具体需求，AI 负责繁琐的 API 实现与逻辑调试。
 
 ---
 
@@ -59,9 +59,14 @@
 ## 🤝 贡献与反馈
 欢迎 Fork 本项目，或通过 QQ 反馈 Bug！如遇使用疑问，欢迎直接提交 [Issue](你的仓库Issues链接) 咨询开发者(其实开发者也不懂)。
 
-### 🔞 关于使用文档
+---
+
+## 🔞 关于使用文档
 
 <font color= #DCDCDC>太懒了所以没写,自行研究吧</font><br /><br /><br />
+
+---
+## 🖼️ 详细的截图
 
 * 主界面截图<br />
 <img width="521" height="603" alt="image" src="https://github.com/user-attachments/assets/db1ec858-d1fc-43ee-a534-5a884c6b7ba3" /><br />
