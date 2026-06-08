@@ -1376,7 +1376,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
         int id = LOWORD(wParam);
 
         if (id == IDC_LNK_GITHUB && HIWORD(wParam) == STN_CLICKED) {
-            ShellExecuteW(NULL, L"open", L"https://github.com", NULL, NULL, SW_SHOW);
+            ShellExecuteW(NULL, L"open", L"https://github.com/wy0922/yuan_Timing", NULL, NULL, SW_SHOW);
         }
 
         else if (id == IDM_TOGGLE_DUTY) {
