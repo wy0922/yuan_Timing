@@ -28,7 +28,7 @@
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/db1ec858-d1fc-43ee-a534-5a884c6b7ba3" width="200" /> | <img src="https://github.com/user-attachments/assets/83a008de-e8ec-455c-b9bb-2c8b4e5bef40" width="200" /> | <img src="https://github.com/user-attachments/assets/5b239536-db2c-4de2-afff-05d062acf53e" width="100" /> |
 
-*(更多详细界面请参考仓库截图区)*
+*(更多详细界面请参考本文档底部)*
 
 ---
 
@@ -38,8 +38,7 @@
 2.  **编译运行**：新建 Windows 桌面向导项目，将 `main.cpp` 放入源码，代码已内嵌库链接，直接构建即可。
 3.  **初始化**：首次运行后，程序将在 `D:\yuan_Timing` 生成配置文件。请按需填充 `seats.txt` 和 `duty.txt`。
 
-> **💡 说明文档**
-> 本着极简主义原则，文档目前处于“草稿”状态。如遇使用疑问，欢迎直接提交 [Issue](你的仓库Issues链接) 咨询开发者。
+
 
 ---
 
@@ -58,6 +57,30 @@
 ---
 
 ## 🤝 贡献与反馈
-欢迎 Fork 本项目，或通过 QQ 反馈 Bug！
+欢迎 Fork 本项目，或通过 QQ 反馈 Bug！如遇使用疑问，欢迎直接提交 [Issue](你的仓库Issues链接) 咨询开发者(其实开发者也不懂)。
 
-<p align="center">Made by ❤️  城南</p>
+### 🔞 关于使用文档
+
+<font color= #DCDCDC>太懒了所以没写,自行研究吧</font><br /><br /><br />
+
+* 主界面截图<br />
+<img width="521" height="603" alt="image" src="https://github.com/user-attachments/assets/db1ec858-d1fc-43ee-a534-5a884c6b7ba3" /><br />
+<img width="521" height="603" alt="image" src="https://github.com/user-attachments/assets/6eef9403-77f1-4fbb-85c5-2b7889a93b65" /><br />
+<img width="521" height="603" alt="image" src="https://github.com/user-attachments/assets/df267bc3-c905-46c4-a91f-8485970069a4" /><br />
+<img width="521" height="603" alt="image" src="https://github.com/user-attachments/assets/ae5ddcc5-2bad-414b-b46b-e75a0e6fce51" /><br />
+
+* 惩罚系统<br />
+<img width="1073" height="657" alt="image" src="https://github.com/user-attachments/assets/83a008de-e8ec-455c-b9bb-2c8b4e5bef40" /><br />
+<img width="586" height="493" alt="image" src="https://github.com/user-attachments/assets/63306f75-7fa3-40a3-8cae-57db54142c4d" /><br />
+<img width="1904" height="990" alt="image" src="https://github.com/user-attachments/assets/2e9b551a-19ed-4ccc-85dd-6fb201cf089f" /><br />
+
+* 托盘菜单<br />
+<img width="219" height="295" alt="image" src="https://github.com/user-attachments/assets/5b239536-db2c-4de2-afff-05d062acf53e" /><br />
+
+* 值日悬浮窗(DUTY)<br />
+<img width="340" height="520" alt="image" src="https://github.com/user-attachments/assets/9dae5f99-18ea-4444-9c86-2056ece66fa5" /><br />
+
+* 定时关机<br />
+<img width="244" height="188" alt="image" src="https://github.com/user-attachments/assets/9f799e82-5f1d-4e00-b29b-39d97242c45f" /><br />
+
+<p align="center">Made by ❤️  Gemini,<font color= #DCDCDC>城南</font></p>
